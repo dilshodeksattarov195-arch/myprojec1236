@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfrocess",
+        "uuid": 4204872,
+        "checksum": "xgr1wr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
